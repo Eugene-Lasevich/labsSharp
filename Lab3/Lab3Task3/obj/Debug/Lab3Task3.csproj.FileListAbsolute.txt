@@ -1,0 +1,7 @@
+D:\C#\Lab3\Lab3Task3\bin\Debug\Lab3Task3.exe.config
+D:\C#\Lab3\Lab3Task3\bin\Debug\Lab3Task3.exe
+D:\C#\Lab3\Lab3Task3\bin\Debug\Lab3Task3.pdb
+D:\C#\Lab3\Lab3Task3\obj\Debug\Lab3Task3.csproj.AssemblyReference.cache
+D:\C#\Lab3\Lab3Task3\obj\Debug\Lab3Task3.csproj.CoreCompileInputs.cache
+D:\C#\Lab3\Lab3Task3\obj\Debug\Lab3Task3.exe
+D:\C#\Lab3\Lab3Task3\obj\Debug\Lab3Task3.pdb

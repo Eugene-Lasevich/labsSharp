@@ -1,0 +1,7 @@
+D:\C#\lab2\Lab2Task2\Lab2Task2\bin\Debug\Lab2Task2.exe.config
+D:\C#\lab2\Lab2Task2\Lab2Task2\bin\Debug\Lab2Task2.exe
+D:\C#\lab2\Lab2Task2\Lab2Task2\bin\Debug\Lab2Task2.pdb
+D:\C#\lab2\Lab2Task2\Lab2Task2\obj\Debug\Lab2Task2.csproj.CoreCompileInputs.cache
+D:\C#\lab2\Lab2Task2\Lab2Task2\obj\Debug\Lab2Task2.exe
+D:\C#\lab2\Lab2Task2\Lab2Task2\obj\Debug\Lab2Task2.pdb
+D:\C#\lab2\Lab2Task2\Lab2Task2\obj\Debug\Lab2Task2.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SC5ZxycA0mPcLZnIN8gwu2hO+OSJRSqVbBa1pnHxVLvGPfbIW0T4Y5MHa2P/AJC0l0R5aN8ioCf5H0W4ESgE4Q==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\lab1\\_153501_Lasevich\\_153501_Lasevich\\_153501_Lasevich.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

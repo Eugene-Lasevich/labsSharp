@@ -1,0 +1,15 @@
+C:\Кодинг\Lab4_Prog\Lab4_Prog\bin\Debug\Lab4_Prog.exe.config
+C:\Кодинг\Lab4_Prog\Lab4_Prog\bin\Debug\Lab4_Prog.exe
+C:\Кодинг\Lab4_Prog\Lab4_Prog\bin\Debug\Lab4_Prog.pdb
+C:\Кодинг\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.csproj.AssemblyReference.cache
+C:\Кодинг\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.csproj.SuggestedBindingRedirects.cache
+C:\Кодинг\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.csproj.CoreCompileInputs.cache
+C:\Кодинг\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.exe
+C:\Кодинг\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.pdb
+D:\C#\lab4\Lab4_Prog\Lab4_Prog\bin\Debug\Lab4_Prog.exe.config
+D:\C#\lab4\Lab4_Prog\Lab4_Prog\bin\Debug\Lab4_Prog.exe
+D:\C#\lab4\Lab4_Prog\Lab4_Prog\bin\Debug\Lab4_Prog.pdb
+D:\C#\lab4\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.csproj.AssemblyReference.cache
+D:\C#\lab4\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.csproj.CoreCompileInputs.cache
+D:\C#\lab4\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.exe
+D:\C#\lab4\Lab4_Prog\Lab4_Prog\obj\Debug\Lab4_Prog.pdb

@@ -1,0 +1,2 @@
+D:\C#\Lab3\Lab3Task1Tests\obj\Debug\Lab3Task1Tests.csproj.AssemblyReference.cache
+D:\C#\Lab3\Lab3Task1Tests\obj\Debug\Lab3Task1Tests.csproj.CoreCompileInputs.cache

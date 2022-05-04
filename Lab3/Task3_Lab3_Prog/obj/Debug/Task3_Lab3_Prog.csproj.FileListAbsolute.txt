@@ -1,0 +1,8 @@
+C:\Кодинг\Lab3_Prog\Task3_Lab3_Prog\bin\Debug\Task3_Lab3_Prog.exe.config
+C:\Кодинг\Lab3_Prog\Task3_Lab3_Prog\bin\Debug\Task3_Lab3_Prog.exe
+C:\Кодинг\Lab3_Prog\Task3_Lab3_Prog\bin\Debug\Task3_Lab3_Prog.pdb
+C:\Кодинг\Lab3_Prog\Task3_Lab3_Prog\obj\Debug\Task3_Lab3_Prog.csproj.AssemblyReference.cache
+C:\Кодинг\Lab3_Prog\Task3_Lab3_Prog\obj\Debug\Task3_Lab3_Prog.csproj.SuggestedBindingRedirects.cache
+C:\Кодинг\Lab3_Prog\Task3_Lab3_Prog\obj\Debug\Task3_Lab3_Prog.csproj.CoreCompileInputs.cache
+C:\Кодинг\Lab3_Prog\Task3_Lab3_Prog\obj\Debug\Task3_Lab3_Prog.exe
+C:\Кодинг\Lab3_Prog\Task3_Lab3_Prog\obj\Debug\Task3_Lab3_Prog.pdb
