@@ -3,7 +3,7 @@
 namespace lab6
 {
 
-    abstract class Sport
+    public abstract class Sport
     {
         public Sport()
         {
@@ -14,9 +14,11 @@ namespace lab6
         {
             Console.WriteLine("Your health has improved(HEALTH++) (Sport)");
         }
+
+        public abstract string kindSport();
     }
 
-    class WaterSport : Sport
+    public class WaterSport : Sport
     {
         public WaterSport()
         {
@@ -32,9 +34,14 @@ namespace lab6
         {
             Console.WriteLine("SWIM (WaterSport)");
         }
+
+        public override string kindSport()
+        {
+            return "WaterSport";
+        }
     }
 
-    class Swiming: WaterSport
+   public class Swiming: WaterSport
     {
         public Swiming()
         {
@@ -45,9 +52,14 @@ namespace lab6
         {
             Console.WriteLine("Swim fast (Swiming)");
         }
+
+        public override string kindSport()
+        {
+            return "Swimming";
+        }
     }
     
-    class WaterPolo : WaterSport
+    public class WaterPolo : WaterSport
     {
         public WaterPolo()
         {
@@ -57,9 +69,14 @@ namespace lab6
         {
             base.swim();
         }
+
+        public override string kindSport()
+        {
+            return "WaterPolo";
+        }
     }
 
-    class GroundSport : Sport
+   public class GroundSport : Sport
     {
         public GroundSport()
         {
@@ -73,9 +90,14 @@ namespace lab6
         {
             Console.WriteLine("RUN (GroundSport)");
         }
+
+        public override string kindSport()
+        {
+            return "GroundSport";
+        }
     }
 
-    class Football : GroundSport
+    public class Football : GroundSport
     {
         public Football()
         {
@@ -86,9 +108,14 @@ namespace lab6
             Console.WriteLine("Run football (Football)");
         }
 
+        public override string kindSport()
+        {
+            return "Football";
+        }
+
     }
 
-    class Volleyball : GroundSport
+    public class Volleyball : GroundSport
     {
         public Volleyball()
         {
@@ -97,6 +124,11 @@ namespace lab6
         public new void run()
         {
             Console.WriteLine("Run volleyball (Volleyball)");
+        }
+
+        public override string kindSport()
+        {
+            return "Volleyball";
         }
     }
 
